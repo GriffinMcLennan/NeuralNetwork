@@ -62,3 +62,7 @@
 ## Examples:
 
  * Examples of setting up and training various Neural Networks can be found in the _examples.java_ file.
+ 
+## Demo:
+
+![](https://raw.githubusercontent.com/GriffinMcLennan/NeuralNetwork/master/demo.gif)
